@@ -1,0 +1,41 @@
+.container
+{
+border: 10px white solid;
+background-color: white;
+align-content: center;
+margin-left: 10%;
+margin-right: 10%;
+}
+body {
+	background-image: url('images/background.jpg');
+background-repeat: repeat;
+background-size: 100px 100px
+}
+.header
+{ 
+	background-color: #A8F0F0;
+	text-align:right;
+}
+.description
+{
+	font-size: 14pt;
+
+}
+.date
+{
+	border-bottom: 2px violet dashed;
+
+}
+.article
+{
+	border: 4px  #C2E9E9  solid;
+	background-color: #E8FBFB;
+	padding: 5px;
+	margin-top: 10px;
+	clear: right;
+}
+
+img
+{   
+	float: right;
+}
