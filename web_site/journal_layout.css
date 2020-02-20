@@ -6,6 +6,24 @@ align-content: center;
 margin-left: 10%;
 margin-right: 10%;
 }
+
+.header:hover
+{
+	background: yellow;
+}
+.article:hover
+{
+	background: yellow;
+}
+.date:hover
+{
+	background: yellow;
+}
+.sidebar:hover
+{
+	background: yellow;
+}
+
 body 
 {
 background-image: url('images/background.jpg');
@@ -34,6 +52,21 @@ background-size: 100px 100px
 	padding: 5px;
 	margin-top: 10px;
 	overflow: hidden;
+
+
+
+}
+.sidebar
+{
+ float: left;
+ border: 8px cyan solid ;
+ margin-bottom: 100px;
+ margin-right: 10px;
+ padding-left: 10px;
+ padding-bottom: 10px;
+ padding-top: 20px;
+ background-color: #A8F0F0;
+
 }
 
 .images
